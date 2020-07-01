@@ -1,0 +1,145 @@
+body {
+    margin: 0px;
+}
+.header-top{
+    background-color: slategray;
+    overflow: hidden;
+}
+.head{
+    color: white;
+   
+}
+.head ul li {
+    list-style: none;
+    float: left;
+    padding: 10px 15px;
+   
+}
+.head ul li p{
+    font-size: 18px;
+    margin-top: -10px;
+}
+.the{
+    margin-left: 350px;
+
+}
+.head-line{
+    text-align: center;
+}
+
+
+
+
+
+.box{
+    border:1px solid white;
+    box-shadow: 15px ;
+    width: 400px;
+    background-color: blanchedalmond;
+}
+.box-tow{
+    padding-left: 15px;
+    border: 1px solid #212020 ;
+    padding-left: 4px;
+    margin-left: 20px;
+    margin-top: 0px;
+    background-color: #212020;
+    color: antiquewhite;
+    width: 67px;
+}
+.box p {
+    font-size: 9px;
+    width: 204px;
+    margin-left: 177px;
+    margin-top: -28px;
+}
+.kyle{
+    font-size: 18px;
+    margin-left: 240px;
+    color: gray;
+}
+.box-three{
+    border: 1px solid white;
+    width: 400px;
+    background-color:#ffffff ;
+}
+.box-three h1{
+    width: 0px;
+    margin-left: 238px;
+}
+.com{
+    margin-left: 52px;
+
+}
+.box-four{
+    border: 1px solid white;
+    width: 400px;
+    background-color: #ffff00;
+}
+.box-four img{
+    margin-left: 106px;
+    width: 250px;
+    height: auto;
+    margin-top: 10px;
+    margin-bottom: 8px;
+}
+.border-box{
+    margin-left: 137px;
+    margin-top: 68px;
+    border: 1px solid;
+    width: 402px
+}
+.heading h5{
+    font-size: 18px;
+
+}
+.four{
+    text-decoration: none;
+    color: beige;
+    background-color: orange;
+    border-radius: 2;
+    border: 1px solid orange;
+    border-radius: 4px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 8px;
+    font-size: 18px;
+    margin-left: 100px;
+}
+.heading{
+    width: idth: 472px;;
+} 
+.flot{
+    float: left;
+    margin-left: 0px;
+    padding-left: 0px;
+    width: 590px;
+}
+.one{
+    margin-left: 102px;
+}
+.tow{
+    margin-left: 102px;
+}
+.last{
+    margin-top: 459px;
+    text-align: center;
+    background-color: darkgray;
+    padding-top: 1px;
+    padding-bottom: 37px;
+}
+.first{
+    font-size: 21px;
+}
+.find{
+    text-decoration: none;
+    color: antiquewhite;
+    background-color: coral;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 15px;
+    border: 1px solid;
+}
